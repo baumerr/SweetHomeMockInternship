@@ -1,4 +1,4 @@
-# Sweet Home 3D mock internship
+git # Sweet Home 3D mock internship
 
 Welcome to your mock internship! You'll be working on the [Sweet Home 3D](https://sourceforge.net/projects/sweethome3d/)
 5.4 desktop application. Like many software development internships, you'll be
